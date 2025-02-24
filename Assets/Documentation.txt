@@ -4,7 +4,13 @@
 4. https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
 5. https://assetstore.unity.com/packages/2d/textures-materials/nature/handpainted-grass-ground-
 6. https://assetstore.unity.com/packages/2d/textures-materials/nature/handpainted-grass-ground-textures-187634
-7. 
-8. 
-9.
-10.
+7. https://assetstore.unity.com/packages/3d/vehicles/land/blue-sedan-195200
+8. https://assetstore.unity.com/packages/3d/props/medieval-props-41540
+9. https://assetstore.unity.com/packages/3d/props/furniture/raw-wooden-furniture-free-166329
+10. https://assetstore.unity.com/packages/3d/props/electronics/old-ussr-lamp-110400
+11. https://assetstore.unity.com/packages/3d/props/interior/worn-bookshelf-8458
+12. https://assetstore.unity.com/packages/3d/props/radio-230712
+13.
+14.
+15.
+16. 
