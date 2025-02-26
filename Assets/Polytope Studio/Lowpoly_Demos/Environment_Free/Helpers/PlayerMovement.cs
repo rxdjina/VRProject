@@ -8,7 +8,8 @@ public class PlayerMovement : MonoBehaviour
 
     public float speed = 5;
     public float gravity = -9.18f;
-    public float jumpHeight = 3f;
+    public float jumpHeight = 0f;
+    public float lockVerticalPosition = 1.5f;
 
     public Transform groundCheck;
     public float groundDistance = 0.4f;
@@ -49,5 +50,8 @@ public class PlayerMovement : MonoBehaviour
         velocity.y += gravity * Time.deltaTime;
 
         controller.Move(velocity * Time.deltaTime);
+
+        Vector3 pos = transform.position;
+        transform.position = new Vector3(pos.x, lockVerticalPosition, pos.z);
     }
 }
